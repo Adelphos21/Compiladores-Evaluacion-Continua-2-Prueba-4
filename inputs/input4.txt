@@ -1,0 +1,9 @@
+fun int main()
+  var int y;
+  if (4<2) then
+    y = 100
+  endif;
+  y = 5;
+  print(y);
+  return(0)
+endfun
